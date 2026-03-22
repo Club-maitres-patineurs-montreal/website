@@ -10,8 +10,11 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+  return ( <div>
+        <header className={clsx('hero hero--primary', styles.heroBanner, styles.hero__headerImg)}>
+      <div className="container"></div>
+    </header>
+      <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -21,11 +24,13 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Découvrez le patinage de vitesse pour adultes
           </Link>
         </div>
       </div>
     </header>
+
+    </div>
   );
 }
 

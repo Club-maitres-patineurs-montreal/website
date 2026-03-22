@@ -10,6 +10,27 @@
   overflow: hidden;
 }
 
+.hero__headerImg {
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0)),
+    url("/static/img/club-des-maitres-accueil.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding-top: 41.8% !important; /* height proportional to width (822/1967) */
+  position: relative; /* needed if you place content inside */
+}
+
+.hero__title, .hero__subtitle {
+  color: white;
+  text-shadow: #000 5px 0px 10px;
+}
+
+.button--lg {
+  background-color: #a94944;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;

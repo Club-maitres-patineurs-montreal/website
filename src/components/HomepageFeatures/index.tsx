@@ -11,7 +11,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Apprendre le patinage courte piste',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Équipement requis',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Horaire, lieux d\'entraînement et tarifs',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
