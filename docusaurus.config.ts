@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Club des Maîtres Patineurs de Montréal',
-  tagline: '',
+  tagline: 'Vous recherchez une activité physique qui vous garde en forme dans une atmosphère de camaraderie? Vous avez fait du patin plus jeune? Vous savez comment patiner avec des roues alignées? Vous vous retrouvez émule de Gaétan Boucher, Nathalie Lambert, Marc Gagnon et d’autres Québécois et Montréalais qui se sont illustrés dans cette discipline? Le Club des Maîtres, membre de Patinage de vitesse Québec, offre la possibilité d’un entraînement supervisé, pour les débutants jusqu’aux experts.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -48,6 +48,7 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          routeBasePath: 'nouvelles',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
@@ -75,7 +76,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Club des Maîtres',
+      title: 'Maîtres patineurs de Montréal',
       logo: {
         alt: 'Logo du Club des Maîtres',
         src: 'img/logo.svg',
@@ -86,9 +87,9 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Informations',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/nouvelles', label: 'Nouvelles', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -103,25 +104,25 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Apprendre',
+              to: '/docs/apprendre',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Suivez-nous',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Page Facebook',
+              href: 'https://www.facebook.com/maitres.patineurs.montreal',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Groupe Facebook',
+              href: 'https://www.facebook.com/groups/1727288670866489',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Page Instagram',
+              href: 'https://www.instagram.com/maitrespatineurs/',
             },
           ],
         },
@@ -129,13 +130,17 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Termes et conditions',
+              to: '/termes-et-conditions',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Règlements',
+              href: '/reglements',
             },
+            {
+              label: 'Patinage de vitesse Québec',
+              href: 'https://www.patinagedevitessequebec.ca',
+            }
           ],
         },
       ],

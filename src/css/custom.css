@@ -28,3 +28,16 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.full-width-table {
+  width: 100%;
+}
+.full-width-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+.full-width-table th,
+.full-width-table td {
+  width: 25%;
+  text-align: center;
+}
