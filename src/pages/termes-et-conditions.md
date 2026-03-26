@@ -17,4 +17,4 @@ Seulement les demandes de remboursement pour raisons médicales seront acceptés
 
 Toute demande de remboursement pour une raison médicale doit être accompagnée d’une preuve médicale officielle. Le remboursement est établi en fonction de la charte de calcul à partir de la date d’arrêt de l’activité. 
 
-Veuillez noter que nous ne remboursons pas les patineurs pourleurs absences ponctuelles.
+Veuillez noter que nous ne remboursons pas les patineurs pour leurs absences ponctuelles.

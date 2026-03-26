@@ -1,4 +1,4 @@
-# Règlements des scéances d'entraînement
+# Règlements des séances d'entraînement
 
 ## Niveau requis
 
@@ -11,7 +11,7 @@ Pour patiner avec le groupe avancé à l'aréna Maurice-Richard, les critères s
 
 ## Autorité de l'entraîneur
 
-Il est convenu que vous devez respecter les instructions de l'entraîneur en place. Outrepasser ses directives pourrait vous valoir une expultion d'une scéance, et, en cas de répétition, de la session.
+Il est convenu que vous devez respecter les instructions de l'entraîneur en place. Outrepasser ses directives pourrait vous valoir une expultion d'une séance, et, en cas de répétition, de la session.
 
 ## Sécurité
 
@@ -21,7 +21,7 @@ Sur la patinoire, les patineurs doivent porter leur [équipement de sécurité o
 
 ## Horaire
 
-À la fin de la période prévue à la scéance, les patineurs doivent avoir ramassés les plots délimitant la piste, les chaudières, gourdes d'eau et sortir.
+À la fin de la période prévue à la séance, les patineurs doivent avoir ramassés les plots délimitant la piste, les chaudières, gourdes d'eau et sortir.
 
 Les patineurs ont 30 minutes d'accès à la chambre des athlètes après la fin de la période. Une fois ces 30 minutes écoulés, les participants doivent quitter les lieux.
 

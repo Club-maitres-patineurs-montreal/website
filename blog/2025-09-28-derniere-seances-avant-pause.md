@@ -1,6 +1,6 @@
 ---
-slug: dernieres-sceances-avant-pause
-title: Dernières scéances avant la pause de la Coupe du monde ISU
+slug: dernieres-seances-avant-pause
+title: Dernières séances avant la pause de la Coupe du monde ISU
 authors: [bruno]
 ---
 

@@ -8,7 +8,7 @@ Bonjour à tous,
 
 Bonne année 2026!
 
-Pour votre inscription pour la session d'hiver, vous avez jusqu'au 14 janvier pour éviter de payer les scéances ponctuelles.
+Pour votre inscription pour la session d'hiver, vous avez jusqu'au 14 janvier pour éviter de payer les séances ponctuelles.
 
 Rappel des tarifs:
 - Mercredi: $225

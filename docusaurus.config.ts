@@ -105,7 +105,7 @@ const config: Config = {
               to: '/termes-et-conditions',
             },
             {
-              label: 'Règlements des scéances',
+              label: 'Règlements des séances',
               href: '/reglements',
             },
           ],
@@ -133,6 +133,10 @@ const config: Config = {
             {
               label: 'Patinage de vitesse Québec',
               href: 'https://www.patinagedevitessequebec.ca',
+            },
+            {
+              label: 'IceReg',
+              href: 'https://icereg.ca/#!/series/maitres-patineurs-de-montreal',
             }
           ],
         },

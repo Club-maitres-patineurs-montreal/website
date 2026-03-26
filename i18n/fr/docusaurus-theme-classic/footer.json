@@ -15,9 +15,9 @@
     "message": "Termes et conditions",
     "description": "The label of footer link with label=Termes et conditions linking to /termes-et-conditions"
   },
-  "link.item.label.Règlements des scéances": {
-    "message": "Règlements des scéances",
-    "description": "The label of footer link with label=Règlements des scéances linking to /reglements"
+  "link.item.label.Règlements des séances": {
+    "message": "Règlements des séances",
+    "description": "The label of footer link with label=Règlements des séances linking to /reglements"
   },
   "link.item.label.Page Facebook": {
     "message": "Page Facebook",

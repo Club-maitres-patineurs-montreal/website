@@ -1,5 +1,5 @@
 ---
-slug: nouveaute-coupons-sceances
+slug: nouveaute-coupons-seances
 title: Nouveauté – Offre de session par coupon
 authors: pascal
 ---
