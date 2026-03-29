@@ -4,7 +4,7 @@
 
 Veuillez noter que pour les abonnements de session, nous ne remboursons pas les séances manquées par le patineur.
 
-Le club des Maîtres-patineurs est une OBNL. En dernier recours, il se peut qu'une situation financière difficile nous exige d'annuler des scéances, faute de budget. Dans ce cas, les membres ne pourrons pas être remboursés. Cependant, les patineurs à qui cela peut s'appliquer auront accès à un crédit pour une séance supplémentaire.
+Le club des Maîtres-patineurs est une OBNL. En dernier recours, il se peut qu'une situation financière difficile nous exige d'annuler des scéances, faute de budget. Dans ce cas, les membres ne pourront pas être remboursés. Cependant, les patineurs à qui cela peut s'appliquer auront accès à un crédit pour une séance supplémentaire. Par exemple, les abonnés du mercredi auront une séance gratuite un dimanche de la session d'hiver si une séance du mercredi à la fin de la session d'automne est annulée.
 
 Si des séances sont annulées par une force majeure (comme une fermeture de l'aréna), nous vous rembourserons proportionnellement les séances annulées, au meilleur des capacités financières du club. À l'inverse, si des dates s'ajoutent au calendrier - possible si une compétition est annulée, par exemple- le club peut exiger un déboursé supplémentaire.
 
