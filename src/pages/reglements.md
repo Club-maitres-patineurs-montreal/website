@@ -2,7 +2,7 @@
 
 ## Niveau requis
 
-Pour patiner avec le groupe avancé à l'aréna Maurice-Richard, les critères sont:
+Pour patiner avec le groupe avancé à l'[aréna Maurice-Richard](/docs/arena-maurice-richard), les critères sont:
 - Maîtriser la position de base et les croisés en virage
 - Être en mesure de compléter un tour de piste règlementaire lancé (sans départ) en moins de 13,5 secondes
 - Avoir plus de 18 ans*

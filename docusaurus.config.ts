@@ -151,7 +151,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Club des Maîtres-patineurs de Montréal. Site web construit avec Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Club des Maîtres-patineurs de Montréal.`,
     },
     prism: {
       theme: prismThemes.github,

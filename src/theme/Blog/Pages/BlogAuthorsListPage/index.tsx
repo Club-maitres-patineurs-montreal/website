@@ -72,7 +72,7 @@ function ContactPage({authors}: {authors: Props['authors']}) {
       <h2>Groupe Messenger</h2>
       <p>
         Nous avons un groupe Messenger privé pour communiquer entre membres patineurs.
-        Si vous voulez y être ajouté, demandez à un responsable lorsque vous serez avec nous à Maurice-Richard.
+        Si vous voulez y être ajouté, demandez à un responsable lorsque vous serez avec nous à <a href="/website/docs/arena-maurice-richard">Maurice-Richard</a>.
       </p>
 
       <h2>Notre équipe</h2>
