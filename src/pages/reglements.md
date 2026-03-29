@@ -19,6 +19,8 @@ Aucun patineur ne peut être sur la glace en même temps que la resurfaceuse. De
 
 Sur la patinoire, les patineurs doivent porter leur [équipement de sécurité obligatoire](/docs/je-me-lance/quoi-se-procurer#léquipement-de-protection-obligatoire) en tout temps.
 
+Votre carte d'assurance-maladie est obligatoire afin que nous puissions la remettre à l'hôpital dans le cas d'un accident.
+
 ## Horaire
 
 À la fin de la période prévue à la séance, les patineurs doivent avoir ramassé les plots délimitant la piste, les chaudières, gourdes d'eau et sortir.
