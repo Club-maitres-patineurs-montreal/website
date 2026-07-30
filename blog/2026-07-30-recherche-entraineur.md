@@ -19,4 +19,4 @@ Bénéfices
 - Patiner avec une gang fantastique! Ça peut être une belle occasion pour un patineur d'augmenter ses heures de glace gratuitement
 - Salaire (à discuter)
 
-Si vous connaissez des patineurs qui pourraient être intéressés, merci de me [rejoindre](president@maitrespatineurs.ca).
+Si vous connaissez des patineurs qui pourraient être intéressés, merci de me [rejoindre](mailto:president@maitrespatineurs.ca).
